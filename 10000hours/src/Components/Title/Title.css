@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'OTEnjoystoriesBA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/OTEnjoystoriesBA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.headerTitle {
+    font-family: 'OTEnjoystoriesBA';
+    text-align: center;
+    font-weight: 700;
+    color: #F5DF4D;
+    font-size: 36px;
+}
+
