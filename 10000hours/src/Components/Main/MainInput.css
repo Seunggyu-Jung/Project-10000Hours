@@ -1,0 +1,32 @@
+
+
+form h2{
+    font-family: 'Gmarket Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffff;
+}
+
+form input {
+    padding: 10px;
+    border: 0;
+    border-radius: 7px;
+    text-align: center;
+}
+
+form button {
+    padding: 20px;
+    border: 0;
+    border-radius: 56px;
+    background-color: #FCEE21;
+    font-family: 'Gmarket Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    color: #5B2386;
+    cursor: pointer;
+}

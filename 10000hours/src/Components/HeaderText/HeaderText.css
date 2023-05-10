@@ -1,3 +1,12 @@
-p {
-    text-align: center;
+.headerText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    color: #fff;
+    font-family: 'Gmarket Sans';
+    font-size: 16px;
+    line-height: 24px;
+
 }
+

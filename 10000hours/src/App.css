@@ -1,13 +1,17 @@
 body {
     background-color:#5B2386;
-    max-width: calc(100% - 578px);
-    margin: auto;
 }
 
 .title {
     margin-top: 50px;
     padding: 50px;
     background: url(./img/Frame1.png) no-repeat center center / 250px;
+    text-align: center;
+}
+
+.text {
+    max-width: calc(100% - 578px);
+    margin: auto;
     text-align: center;
 }
 
