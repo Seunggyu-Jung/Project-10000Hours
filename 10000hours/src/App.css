@@ -16,4 +16,18 @@ body {
 }
 
 
+.footer {
+    margin-top: 130px;
+}
+
+.footerInfo {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #ffff;
+}
+
+
 

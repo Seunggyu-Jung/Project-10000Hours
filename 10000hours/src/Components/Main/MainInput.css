@@ -17,6 +17,7 @@ form input {
 }
 
 form button {
+    margin-top: 110px;
     padding: 20px;
     border: 0;
     border-radius: 56px;
@@ -29,4 +30,12 @@ form button {
     text-align: center;
     color: #5B2386;
     cursor: pointer;
+
+    position: relative;
+}
+
+.finger {
+    position: absolute;
+    top: 20px;
+    left: 100%;
 }
