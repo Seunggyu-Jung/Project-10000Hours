@@ -5,6 +5,7 @@ import { useState } from 'react'
 
 
 
+
 export default function Main() {
 
     const [datas, setDatas] = useState([])
@@ -16,6 +17,7 @@ export default function Main() {
     <>
     <MainInput addData={addData}/>
     <MainResult datas={datas} />
+
     </>
   )
 }
